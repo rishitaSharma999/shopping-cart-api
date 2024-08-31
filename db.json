@@ -1,0 +1,88 @@
+{
+  "page": 1,
+  "pageSize": 5,
+  "totalPosts": 30,
+  "totalPages": 6,
+  "posts": [
+    {
+      "title": "10 Essential Pieces for a Timeless Wardrobe",
+      "author": "Emily Fashionista",
+      "date": "2023-01-02",
+      "category": "Fashion Trends",
+      "tags": [
+        "Fashion",
+        "Style",
+        "Wardrobe Essentials",
+        "Timeless Pieces",
+        "Investment Fashion"
+      ],
+      "content": "Building a timeless wardrobe requires investing in essential pieces that won't go out of style. Here are 10 must-haves to get you started, from classic coats to versatile dresses.",
+      "id": "BLOG100",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "title": "The Art of Mixing and Matching: A Guide to Creating Unique Outfits",
+      "author": "Sarah Style",
+      "date": "2023-02-14",
+      "category": "Fashion Tips",
+      "tags": [
+        "Fashion",
+        "Style",
+        "Outfit Inspiration",
+        "Mix and Match",
+        "Personal Style"
+      ],
+      "content": "Want to breathe new life into your wardrobe without buying new clothes? Learn the art of mixing and matching to create unique outfits that reflect your personal style.",
+      "id": "BLOG200",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "title": "Sustainable Fashion: How to Shop Second-Hand Like a Pro",
+      "author": "Lily Green",
+      "date": "2023-03-01",
+      "category": "Sustainable Fashion",
+      "tags": [
+        "Sustainable Fashion",
+        "Second-Hand Shopping",
+        "Eco-Friendly",
+        "Fashion on a Budget"
+      ],
+      "content": "Ditch fast fashion and join the sustainable fashion movement. Learn how to shop second-hand like a pro and reduce your environmental impact while staying stylish.",
+      "id": "BLOG300",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "title": "The Evolution of Streetwear: From Skater Culture to High Fashion",
+      "author": "James Streetwear",
+      "date": "2023-02-05",
+      "category": "Fashion History",
+      "tags": [
+        "Streetwear",
+        "Fashion History",
+        "Skater Culture",
+        "High Fashion"
+      ],
+      "content": "Streetwear has come a long way from its roots in skater culture. Explore the evolution of streetwear and how it has influenced high fashion.",
+      "id": "BLOG400",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "title": "5 Essential Accessories to Elevate Your Outfit",
+      "author": "Mia Accessories",
+      "date": "2023-01-20",
+      "category": "Fashion Accessories",
+      "tags": [
+        "Fashion Accessories",
+        "Outfit Inspiration",
+        "Style Tips",
+        "Accessories"
+      ],
+      "content": "Take your outfit to the next level with these 5 essential accessories. From statement hats to chic handbags, learn how to accessorize like a pro.",
+      "id": "BLOG500",
+      "img": "https://source.unsplash.com/random/100x100?fashion,clothes"
+    },
+    {
+      "id": "d9e9"
+    }
+  ]
+}
